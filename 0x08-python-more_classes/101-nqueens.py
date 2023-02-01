@@ -19,7 +19,7 @@ queen must be placed on the chessboard.
 """
 
 
-from sys import argv
+import sys
 
 
 def init_board(n):
